@@ -3,8 +3,7 @@
 Selamat datang di repositori Sweetify-Models! Repositori ini berisi model-model machine learning yang dikembangkan untuk proyek Sweetify.
 
 ## Deskripsi Project
-Kami mengerjakan project bernama SWEETIFY, yaitu aplikasi yang bertujuan membantu pengguna memantau asupan gula dari minuman kemasan. Model yang terdapat di repositori ini digunakan untuk mengklasifikasikan gambar minuman kemasan ke dalam grade gula yang sesuai (A-D). 
-Aplikasi ini akan memberikan informasi akurat mengenai kandungan gula dalam minuman kemasan, melakukan tracking dan menganalisis asupan gula harian pengguna, serta memberikan tips dan trik dalam menerapkan gaya hidup sehat untuk mencegah obesitas dan diabetes.
+Kami mengembangkan project bernama SWEETIFY, sebuah aplikasi yang bertujuan membantu pengguna memantau asupan gula dari minuman kemasan. Model yang terdapat di repositori ini digunakan untuk mengklasifikasikan gambar minuman kemasan ke dalam kategori gula yang sesuai (A-D). Aplikasi ini akan memberikan informasi mengenai kandungan gula dalam minuman kemasan, tracking dan menganalisis asupan gula harian pengguna, serta memberikan rekomendasi dan tips dalam menerapkan gaya hidup sehat untuk mengurangi risiko obesitas dan diabetes.
 
 ## Dataset
 Dataset ini dikumpulkan untuk memprediksi kadar gula pada minuman berdasarkan sistem Grade (A-D). Kami mengumpulkan data gambar sebanyak 3000++ dengan 75 kelas yang masing-masing kelas terdapat 50 gambar.
