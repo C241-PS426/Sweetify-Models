@@ -1,6 +1,6 @@
 # Sweetify Models
 ## Overview 
-Selamat datang di repositori Sweetify-Models! Repositori ini berisi model Convolutional Neural Network (CNN) yang dikembangkan untuk proyek Sweetify.
+Selamat datang di repositori Sweetify-Models! Repositori ini berisi model Convolutional Neural Network (CNN) yang dikembangkan untuk project Sweetify.
 
 ## Deskripsi Project
 Kami mengembangkan project bernama SWEETIFY, sebuah aplikasi yang bertujuan membantu pengguna memantau asupan gula dari minuman kemasan. Model yang terdapat di repositori ini digunakan untuk mengklasifikasikan gambar minuman kemasan ke dalam kategori gula yang sesuai (A-D). Aplikasi ini akan memberikan informasi mengenai kandungan gula dalam minuman kemasan, tracking dan menganalisis asupan gula harian pengguna, serta memberikan rekomendasi dan tips dalam menerapkan gaya hidup sehat untuk mengurangi risiko obesitas dan diabetes.
